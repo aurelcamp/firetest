@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "dosomething-4154d": {
+      "hosting": {
+        "app": [
+          "dosomething-4154d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "dosomething-4154d"
+  }
+}
