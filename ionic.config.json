@@ -1,0 +1,7 @@
+{
+  "name": "firetest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
